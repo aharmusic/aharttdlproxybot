@@ -1,0 +1,7 @@
+python-telegram-bot
+yt-dlp
+pymediainfo
+pillow
+requests
+pyrogram
+flask
